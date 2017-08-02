@@ -1,7 +1,7 @@
 <?php
-namespace IopenWechat\Core\ServiceProviders;
+namespace LWechat\Core\ServiceProviders;
 
-use IopenWechat\Message\Message;
+use LWechat\Message\Message;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

@@ -1,10 +1,10 @@
 <?php
-namespace IopenWechat\Core\ServiceProviders;
+namespace LWechat\Core\ServiceProviders;
 
-use IopenWechat\Server\AccessToken;
-use IopenWechat\Server\EventNotice;
-use IopenWechat\Server\PreAuthCode;
-use IopenWechat\Server\Wxcrypt;
+use LWechat\Server\AccessToken;
+use LWechat\Server\EventNotice;
+use LWechat\Server\PreAuthCode;
+use LWechat\Server\Wxcrypt;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

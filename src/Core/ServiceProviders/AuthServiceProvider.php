@@ -1,14 +1,14 @@
 <?php
-namespace IopenWechat\Core\ServiceProviders;
+namespace LWechat\Core\ServiceProviders;
 
-use IopenWechat\Auth\AccessToken;
-use IopenWechat\Auth\Auth;
+use LWechat\Auth\AccessToken;
+use LWechat\Auth\Auth;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 
 /**
  * Class AuthServiceProvider
- * @package IopenWechat\Core\ServiceProviders
+ * @package LWechat\Core\ServiceProviders
  */
 class AuthServiceProvider implements ServiceProviderInterface
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace IopenWechat\Core\ServiceProviders;
+namespace LWechat\Core\ServiceProviders;
 
-use IopenWechat\Material\Material;
-use IopenWechat\Material\Temporary;
+use LWechat\Material\Material;
+use LWechat\Material\Temporary;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

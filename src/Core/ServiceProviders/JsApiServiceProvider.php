@@ -1,14 +1,14 @@
 <?php
 
-namespace IopenWechat\Core\ServiceProviders;
+namespace LWechat\Core\ServiceProviders;
 
-use IopenWechat\Js\Api;
+use LWechat\Js\Api;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 
 /**
  * Class JsApiServiceProvider
- * @package IopenWechat\Core\ServiceProviders
+ * @package LWechat\Core\ServiceProviders
  */
 class JsApiServiceProvider implements ServiceProviderInterface
 {

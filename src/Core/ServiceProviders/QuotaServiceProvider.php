@@ -1,7 +1,7 @@
 <?php
 
-namespace IopenWechat\Core\ServiceProviders;
-use IopenWechat\Quota\Quota;
+namespace LWechat\Core\ServiceProviders;
+use LWechat\Quota\Quota;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

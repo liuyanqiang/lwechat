@@ -1,6 +1,6 @@
 <?php
-namespace IopenWechat\Core\ServiceProviders;
-use IopenWechat\Staff\Staff;
+namespace LWechat\Core\ServiceProviders;
+use LWechat\Staff\Staff;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

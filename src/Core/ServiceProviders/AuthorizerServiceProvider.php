@@ -1,14 +1,14 @@
 <?php
 
-namespace IopenWechat\Core\ServiceProviders;
+namespace LWechat\Core\ServiceProviders;
 
-use IopenWechat\Authorizer\Member;
+use LWechat\Authorizer\Member;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 
 /**
  * Class AuthorizerServiceProvider
- * @package IopenWechat\Core\ServiceProviders
+ * @package LWechat\Core\ServiceProviders
  */
 class AuthorizerServiceProvider implements ServiceProviderInterface
 {

@@ -8,9 +8,9 @@
  * @author      duzhenlin <duzhenlin@vip.qq.com>
  */
 
-namespace IopenWechat\Core\ServiceProviders;
+namespace LWechat\Core\ServiceProviders;
 
-use IopenWechat\Stats\Stats;
+use LWechat\Stats\Stats;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

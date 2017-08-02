@@ -6,8 +6,8 @@
  * Time: 23:15
  */
 
-namespace IopenWechat\Core\ServiceProviders;
-use IopenWechat\Notice\Notice;
+namespace LWechat\Core\ServiceProviders;
+use LWechat\Notice\Notice;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 
