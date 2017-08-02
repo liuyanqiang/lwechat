@@ -5,11 +5,12 @@
 
 ## 环境要求
 
-1. PHP >= 5.5.9 
+1. PHP >= 5.6.0 
 2. **[composer](https://getcomposer.org/)**
 3. openssl 扩展
 
 > SDK 对所使用的框架并无特别要求 
+
 > SDK 支持PHP7
 
 ## 安装

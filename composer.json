@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php":">=5.5.0",
+        "php":">=5.6.0",
 		"ext-openssl": "*",
         "pimple/pimple": "~3.0",
         "doctrine/cache": "v1.6.1",
